@@ -1,0 +1,30 @@
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\Calculator\obj\Debug\Calculator.pdb
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Master\Master Program\Project Visual Basic\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Task University\Pemr GUI\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Task University\Pemr GUI\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Task University\Pemr GUI\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Task University\Pemr GUI\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Task University\Pemr GUI\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Task University\Pemr GUI\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Task University\Pemr GUI\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Task University\Pemr GUI\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Task University\Pemr GUI\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Task University\Pemr GUI\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
